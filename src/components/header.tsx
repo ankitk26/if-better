@@ -12,7 +12,7 @@ import {
 
 export default function Header() {
   return (
-    <header className="py-4">
+    <header className="border-b py-4">
       <div className="flex flex-col items-center justify-center gap-2">
         <div className="flex items-center gap-2">
           <Button>Login</Button>
